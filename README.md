@@ -16,8 +16,8 @@ Soy una persona apasionada por el mundo de la tecnología y sus diversos campos.
 
 ### 📌 Proyectos Destacados
 
-- [Proyecto 1](https://github.com/dbenedid23/Adoptmate)
-- [Proyecto 2](https://github.com/dbenedid23/AdoptMate-Api)
+- [AdoptMate](https://github.com/dbenedid23/Adoptmate)
+- [AdoptMate SpringBoot](https://github.com/dbenedid23/AdoptMate-Api)
 
 ### 🌐 Conéctate conmigo
 
